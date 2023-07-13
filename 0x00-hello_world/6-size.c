@@ -3,7 +3,7 @@
 /**
  * main -Entry point
  *
- * description: using sizeof to print the size of various types
+ * Description: using sizeof to print the size of various types
  *
  * Return: Alawys 0 (Success)
 */
